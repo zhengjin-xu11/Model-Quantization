@@ -1,9 +1,11 @@
 # Model-Quantization
 
 
-## Large Language Model (LLM)
 
-### 2023
+- [Large Language Model (LLM)](#large-language-model-llm)
+- [Pre-trained Language Model (PLM)](#pre-trained-language-model-plm)
+- [Low-bit Quantization](#low-bit-quantization)
+- [Other](#other)
 
 <!-- * [![Publish](https://img.shields.io/badge/<leaf tag>-<right tag>-<color>)]() 
 [![Star](shields.io_url)](github_url) 
@@ -12,6 +14,10 @@ some author.
 [[Paper]](paper url)
  [[Github]](github url)-->
 
+
+## Large Language Model (LLM)
+
+### 2023
 
 * [![Publish](https://img.shields.io/badge/Conference-ICLR'22-blue)]() [![Star](https://img.shields.io/github/stars/IST-DASLab/gptq.svg?style=social&label=Star)](https://github.com/IST-DASLab/gptq) [GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers](https://arxiv.org/abs/2210.17323). Elias Frantar, Saleh Ashkboos, Torsten Hoefler, Dan Alistarh. [[Paper]](https://arxiv.org/abs/2210.17323) [[Github]](https://github.com/IST-DASLab/gptq)
 
@@ -70,9 +76,74 @@ Zechun Liu, Barlas Oguz, Changsheng Zhao, Ernie Chang, Pierre Stock, Yashar Mehd
 
 * [Compress, Then Prompt: Improving Accuracy-Efficiency Trade-off of LLM Inference with Transferable Prompt](https://arxiv.org/abs/2305.11186). Zhaozhuo Xu, Zirui Liu, Beidi Chen, Yuxin Tang, Jue Wang, Kaixiong Zhou, Xia Hu, Anshumali Shrivastava. [[Paper]](https://arxiv.org/abs/2305.11186)
 
-<!-- * [![Publish](https://img.shields.io/badge/<leaf tag>-<right tag>-<color>)]() 
-[![Star](shields.io_url)](github_url) 
-[paper title](paper url). 
-some author. 
-[[Paper]](paper url)
- [[Github]](github url)-->
+
+## Low-bit Quantization
+
+### 2023
+
+
+* [![Publish](https://img.shields.io/badge/Conference-WACV'23-blue)]() [Collaborative Multi-Teacher Knowledge Distillation for Learning Low Bit-width Deep Neural Networks](https://arxiv.org/abs/2210.16103). Cuong Pham, Tuan Hoang, Thanh-Toan Do. [[Paper]](https://arxiv.org/abs/2210.16103)
+
+* [![Publish](https://img.shields.io/badge/Conference-CVPR'23-blue)]() [![Stars](https://img.shields.io/github/stars/SamsungLabs/Genie?style=social&label=star)](https://github.com/SamsungLabs/Genie) [Genie: Show Me the Data for Quantization](https://arxiv.org/abs/2212.04780). Yongkweon Jeon, Chungman Lee, Ho-young Kim. [[Paper]](https://arxiv.org/abs/2212.04780) [[Github]](https://github.com/SamsungLabs/Genie)
+
+
+
+
+## Other
+
+### 2023
+
+* [![Publish](https://img.shields.io/badge/Conference-ICML'23-blue)]() [![Stars](https://img.shields.io/github/stars/htqin/BiBench?style=social&label=star)](https://github.com/htqin/BiBench) [BiBench: Benchmarking and Analyzing Network Binarization](https://arxiv.org/abs/2301.11233). Haotong Qin, Mingyuan Zhang, Yifu Ding, Aoyu Li, Zhongang Cai, Ziwei Liu, Fisher Yu, Xianglong Liu. [[Paper]](https://arxiv.org/abs/2301.11233) [[Github]](https://github.com/htqin/BiBench)
+
+* [![Publish](https://img.shields.io/badge/Conference-CVPR'23-blue)]() [Toward Accurate Post-Training Quantization for Image Super Resolution](https://openaccess.thecvf.com/content/CVPR2023/papers/Tu_Toward_Accurate_Post-Training_Quantization_for_Image_Super_Resolution_CVPR_2023_paper.pdf). Zhijun Tu, Jie Hu, Hanting Chen, Yunhe Wang. [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Tu_Toward_Accurate_Post-Training_Quantization_for_Image_Super_Resolution_CVPR_2023_paper.pdf)
+
+* [![Publish](https://img.shields.io/badge/Conference-CVPR'23-blue)]() [One-Shot Model for Mixed-Precision Quantization](https://openaccess.thecvf.com/content/CVPR2023/papers/Koryakovskiy_One-Shot_Model_for_Mixed-Precision_Quantization_CVPR_2023_paper.pdf). Ivan Koryakovskiy. [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Koryakovskiy_One-Shot_Model_for_Mixed-Precision_Quantization_CVPR_2023_paper.pdf)
+
+* [![Publish](https://img.shields.io/badge/Conference-CVPR'23-blue)]() [![Stars](https://img.shields.io/github/stars/hfutqian/AdaDFQ?style=social&label=star)](https://github.com/hfutqian/AdaDFQ) [Adaptive Data-Free Quantization](https://arxiv.org/abs/2303.06869). Biao Qian, Yang Wang, Richang Hong, Meng Wang. [[Paper]](https://arxiv.org/abs/2303.06869) [[Github]](https://github.com/hfutqian/AdaDFQ)
+
+* [![Publish](https://img.shields.io/badge/Conference-CVPR'23-blue)]() [![Stars](https://img.shields.io/github/stars/ECoLab-POSTECH/NIPQ?style=social&label=star)](https://github.com/ECoLab-POSTECH/NIPQ) [NIPQ: Noise proxy-based Integrated Pseudo-Quantization](https://arxiv.org/abs/2206.00820). Juncheol Shin, Junhyuk So, Sein Park, Seungyeop Kang, Sungjoo Yoo, Eunhyeok Park. [[Paper]](https://arxiv.org/abs/2206.00820) [[Github]](https://github.com/ECoLab-POSTECH/NIPQ)
+
+* [![Publish](https://img.shields.io/badge/Conference-CVPR'23-blue)]() [Bit-shrinking: Limiting Instantaneous Sharpness for Improving Post-training Quantization](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Bit-Shrinking_Limiting_Instantaneous_Sharpness_for_Improving_Post-Training_Quantization_CVPR_2023_paper.pdf). Chen Lin. [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Bit-Shrinking_Limiting_Instantaneous_Sharpness_for_Improving_Post-Training_Quantization_CVPR_2023_paper.pdf)
+
+* [![Publish](https://img.shields.io/badge/Conference-CVPR'23-blue)]() [![Stars](https://img.shields.io/github/stars/bytedance/MRECG?style=social&label=star)](https://github.com/bytedance/MRECG) [Solving Oscillation Problem in Post-Training Quantization Through a Theoretical Perspective](https://arxiv.org/abs/2303.11906). Yuexiao Ma, Huixia Li, Xiawu Zheng, Xuefeng Xiao, Rui Wang, Shilei Wen, Xin Pan, Fei Chao, Rongrong Ji. [[Paper]](https://arxiv.org/abs/2303.11906) [[Github]](https://github.com/bytedance/MRECG)
+
+* [![Publish](https://img.shields.io/badge/Conference-CVPR'23-blue)]() [![Stars](https://img.shields.io/github/stars/WooKyoungHan/ABCD?style=social&label=star)](https://github.com/WooKyoungHan/ABCD) [ABCD : Arbitrary Bitwise Coefficient for De-quantization](https://openaccess.thecvf.com/content/CVPR2023/papers/Han_ABCD_Arbitrary_Bitwise_Coefficient_for_De-Quantization_CVPR_2023_paper.pdf). Woo Kyoung Han. [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Han_ABCD_Arbitrary_Bitwise_Coefficient_for_De-Quantization_CVPR_2023_paper.pdf) [[Github]](https://github.com/WooKyoungHan/ABCD)
+
+* [![Publish](https://img.shields.io/badge/Journal-TNNLS'23-blue)]() [![Stars](https://img.shields.io/github/stars/htqin/BiFSMNv2?style=social&label=star)](https://github.com/htqin/BiFSMNv2) [BiFSMNv2: Pushing Binary Neural Networks for Keyword Spotting to Real-Network Performance](https://arxiv.org/abs/2211.06987). Haotong Qin, Xudong Ma, Yifu Ding, Xiaoyang Li, Yang Zhang, Zejun Ma, Jiakai Wang, Jie Luo, Xianglong Liu. [[Paper]](https://arxiv.org/abs/2211.06987) [[Github]](https://github.com/htqin/BiFSMNv2)
+
+* [![Publish](https://img.shields.io/badge/Journal-PR'23-blue)]() [Bayesian asymmetric quantized neural networks](https://www.sciencedirect.com/science/article/pii/S0031320323001632). Jen-Tzung Chien, Su-Ting Chang. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320323001632)
+
+* [![Publish](https://img.shields.io/badge/Conference-MMM'23-blue)]() [Binary Neural Network for Video Action Recognition](https://link.springer.com/chapter/10.1007/978-3-031-27077-2_8). Hongfeng Han, Zhiwu Lu, Ji-Rong Wen. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-27077-2_8)
+
+* [![Stars](https://img.shields.io/github/stars/YixuanSeanZhou/Quantized_Neural_Nets?style=social&label=star)](https://github.com/YixuanSeanZhou/Quantized_Neural_Nets) [Post-training Quantization for Neural Networks with Provable Guarantees](https://arxiv.org/abs/2201.11113). Jinjie Zhang, Yixuan Zhou, Rayan Saab. [[Paper]](https://arxiv.org/abs/2201.11113) [[Github]](https://github.com/YixuanSeanZhou/Quantized_Neural_Nets)
+
+* [EBSR: Enhanced Binary Neural Network for Image Super-Resolution](https://arxiv.org/abs/2303.12270). Renjie Wei, Shuwen Zhang, Zechun Liu, Meng Li, Yuchen Fan, Runsheng Wang, Ru Huang. [[Paper]](https://arxiv.org/abs/2303.12270)
+
+* [Binarizing Sparse Convolutional Networks for Efficient Point Cloud Analysis](https://arxiv.org/abs/2303.15493). Xiuwei Xu, Ziwei Wang, Jie Zhou, Jiwen Lu. [[Paper]](https://arxiv.org/abs/2303.15493)
+
+* [Binary domain generalization for sparsifying binary neural networks](https://arxiv.org/abs/2306.13515). Riccardo Schiavone, Francesco Galati, Maria A. Zuluaga. [[Paper]](https://arxiv.org/abs/2306.13515)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
