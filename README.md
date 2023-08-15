@@ -123,6 +123,10 @@ Zechun Liu, Barlas Oguz, Changsheng Zhao, Ernie Chang, Pierre Stock, Yashar Mehd
 
 * [Binary domain generalization for sparsifying binary neural networks](https://arxiv.org/abs/2306.13515). Riccardo Schiavone, Francesco Galati, Maria A. Zuluaga. [[Paper]](https://arxiv.org/abs/2306.13515)
 
+* [![Star](https://img.shields.io/github/stars/Qualcomm-AI-research/FP8-quantization?style=social&label=star)](https://github.com/Qualcomm-AI-research/FP8-quantization) [FP8 versus INT8 for efficient deep learning inference](https://arxiv.org/abs/2303.17951). Mart van Baalen, Andrey Kuzmin, Suparna S Nair, Yuwei Ren, Eric Mahurin, Chirag Patel, Sundar Subramanian, Sanghyuk Lee, Markus Nagel, Joseph Soriaga, Tijmen Blankevoort. [[Paper]](https://arxiv.org/abs/2303.17951) [[Github]](https://github.com/Qualcomm-AI-research/FP8-quantization)
+
+* [FP8 Quantization: The Power of the Exponent](https://arxiv.org/abs/2208.09225). Andrey Kuzmin, Mart Van Baalen, Yuwei Ren, Markus Nagel, Jorn Peters, Tijmen Blankevoort. [[Paper]](https://arxiv.org/abs/2208.09225)
+
 
 
 
