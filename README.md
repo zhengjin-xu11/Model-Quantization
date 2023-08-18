@@ -76,6 +76,10 @@ Zechun Liu, Barlas Oguz, Changsheng Zhao, Ernie Chang, Pierre Stock, Yashar Mehd
 
 * [Compress, Then Prompt: Improving Accuracy-Efficiency Trade-off of LLM Inference with Transferable Prompt](https://arxiv.org/abs/2305.11186). Zhaozhuo Xu, Zirui Liu, Beidi Chen, Yuxin Tang, Jue Wang, Kaixiong Zhou, Xia Hu, Anshumali Shrivastava. [[Paper]](https://arxiv.org/abs/2305.11186)
 
+*  [A Survey of Techniques for Optimizing Transformer Inference](https://arxiv.org/abs/2307.07982). Krishna Teja Chitty-Venkata, Sparsh Mittal, Murali Emani, Venkatram Vishwanath, Arun K. Somani. [[Paper]](https://arxiv.org/abs/2307.07982)
+
+
+
 
 ## Low-bit Quantization
 
@@ -126,6 +130,16 @@ Zechun Liu, Barlas Oguz, Changsheng Zhao, Ernie Chang, Pierre Stock, Yashar Mehd
 * [![Star](https://img.shields.io/github/stars/Qualcomm-AI-research/FP8-quantization?style=social&label=star)](https://github.com/Qualcomm-AI-research/FP8-quantization) [FP8 versus INT8 for efficient deep learning inference](https://arxiv.org/abs/2303.17951). Mart van Baalen, Andrey Kuzmin, Suparna S Nair, Yuwei Ren, Eric Mahurin, Chirag Patel, Sundar Subramanian, Sanghyuk Lee, Markus Nagel, Joseph Soriaga, Tijmen Blankevoort. [[Paper]](https://arxiv.org/abs/2303.17951) [[Github]](https://github.com/Qualcomm-AI-research/FP8-quantization)
 
 * [FP8 Quantization: The Power of the Exponent](https://arxiv.org/abs/2208.09225). Andrey Kuzmin, Mart Van Baalen, Yuwei Ren, Markus Nagel, Jorn Peters, Tijmen Blankevoort. [[Paper]](https://arxiv.org/abs/2208.09225)
+
+* [![Star](https://img.shields.io/github/stars/graphcore-research/unit-scaling-demo?style=social&label=star)](https://github.com/graphcore-research/unit-scaling-demo) [Unit Scaling: Out-of-the-Box Low-Precision Training](https://arxiv.org/abs/2303.11257). Charlie Blake, Douglas Orr, Carlo Luschi. [[Paper]](https://arxiv.org/abs/2303.11257) [[Github]](https://github.com/graphcore-research/unit-scaling-demo)
+
+* [FLIQS: One-Shot Mixed-Precision Floating-Point and Integer Quantization Search](https://arxiv.org/abs/2308.03290). Jordan Dotzel, Gang Wu, Andrew Li, Muhammad Umar, Yun Ni, Mohamed S. Abdelfattah, Zhiru Zhang, Liqun Cheng, Martin G. Dixon, Norman P. Jouppi, Quoc V. Le, Sheng Li. [[Paper]](https://arxiv.org/abs/2308.03290)
+
+* [Rediscovering Hashed Random Projections for Efficient Quantization of Contextualized Sentence Embeddings](https://arxiv.org/abs/2304.02481). Ulf A. Hamster, Ji-Ung Lee, Alexander Geyken, Iryna Gurevych. [[Paper]](https://arxiv.org/abs/2304.02481)
+
+* [Pruning vs Quantization: Which is Better?](https://arxiv.org/abs/2307.02973). Andrey Kuzmin, Markus Nagel, Mart van Baalen, Arash Behboodi, Tijmen Blankevoort. [[Paper]](https://arxiv.org/abs/2307.02973)
+
+
 
 
 
